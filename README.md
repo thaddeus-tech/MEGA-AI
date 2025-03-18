@@ -99,7 +99,7 @@ To set up the MEGA AI quickly, follow our detailed tutorial on YouTube:
 
 **Option B: Deploy In Koyeb**
 
-[![Koyeb Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/GKHazA8e2oQ)
+[![Koyeb Tutorial](https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/GKHazA8e2oQ)
 
 1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup).
 2. Deploy your app using the button below:
@@ -325,7 +325,7 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
  7. ## DEPLOY IN TERMUX
 
 
-[![Termux Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/bmv-etXhWSA)
+[![Termux Tutorial](https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/bmv-etXhWSA)
 
 
  9. **For Ubuntu Users**
